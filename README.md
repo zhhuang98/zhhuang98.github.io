@@ -14,6 +14,12 @@ Ze-Hao Huang (黄泽豪) is a PhD candidate of Physics at Nanjing University.
 He received B.Sc. degree from Nanchang University in 2019.
 His research focuses on the study of quantum simulation of topological quantum matters, especially for them in non-Hermitian systems.
 
+## Research Interests
+
+- Condensed Matter Physics + Quantum Information -> Quantum Simulation
+- Condensed Matter Physics + Machine Learning
+- Quantum Information + Topology (Geometry)
+
 ## Publications
 
 1. Quantum circuit for measuring an operator's generalized expectation values and its applications to non-Hermitian winding numbers, [Physical Review A, **107**, 052205 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052205).
