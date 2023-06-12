@@ -24,4 +24,4 @@ I am interested in the research of the intersection of physics and quantum compu
 ## Publications
 
 1. **Ze-Hao Huang**, Peng He, Li-Jun Lang*, Shi-Liang Zhu*, Quantum circuit for measuring an operator's generalized expectation values and its applications to non-Hermitian winding numbers, [Physical Review A, **107**, 052205 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052205).
-2. Peng He, **Ze-Hao Huang**, Floquet engineering and simulating exceptional rings with a quantum spin system, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201).
+2. Peng He*, **Ze-Hao Huang**, Floquet engineering and simulating exceptional rings with a quantum spin system, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201).
