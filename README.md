@@ -16,7 +16,7 @@ His research focuses on the study of quantum simulation of topological quantum m
 
 ## Research Interests
 
-I am interested in the research of the intersection of physics and quantum computing, machine learning, and modern mathematics, such as
+He is interested in the research of the intersection of physics and quantum computing, machine learning, and modern mathematics, such as
 - Condensed Matter Physics + Quantum Information -> Quantum Simulation
 - Condensed Matter Physics + Machine Learning -> Quantum Machine Learning
 - Quantum Information + Topology (Geometry) -> ?
