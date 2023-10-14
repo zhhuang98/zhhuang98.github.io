@@ -6,9 +6,9 @@
 - Supervisor: [Shi-Liang Zhu (朱诗亮)](https://physics.scnu.edu.cn/a/20201218/6945.html)
 - E-mail: [huang.zehao@outlook.com](mailto:huang.zehao@outlook.com)
 - [GitHub](https://github.com/zhhuang98)
-| [ORCID](https://orcid.org/0000-0002-1180-7673)
-| [arXiv](https://arxiv.org/a/huang_z_3.html)
-| [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=Guq9h6AAAAAJ)
+ | [ORCID](https://orcid.org/0000-0002-1180-7673)
+ | [arXiv](https://arxiv.org/a/huang_z_3.html)
+ | [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=Guq9h6AAAAAJ)
 
 
 ## About me
