@@ -22,11 +22,11 @@ His research focuses on the study of quantum simulation of (1) topological quant
 
 He is interested in the research of the intersection of physics and quantum information (computing), machine learning, and modern mathematics, such as
 - Condensed Matter Physics + Quantum Information -> Quantum Simulation
-    Status: Main Direction in my PhD. Some articles have been published.
+  > Status: Main Direction in my PhD. Some articles have been published.
 - Condensed Matter Physics + Machine Learning -> Quantum Machine Learning
-    Status: Accumulating background knowledge ......
+  > Status: Accumulating background knowledge ......
 - Quantum Information + Topology (Geometry) -> ?
-    Status: Looking for a specific question ......
+  > Status: Looking for a specific question ......
 
 
 ## Publications
