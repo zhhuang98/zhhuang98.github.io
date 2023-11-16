@@ -13,9 +13,11 @@
 
 ## About me
 
-Ze-Hao Huang (黄泽豪) is a PhD candidate of Physics at Nanjing University.
-He received B.Sc. degree in Physics and Computer Science & Technology from Nanchang University in 2019.
-His research focuses on the study of quantum simulation of (1) topological quantum matters, especially for them in non-Hermitian systems, (2) quantum many-body systems, and (3) quantum foundations.
+- Ze-Hao Huang is a PhD candidate of Physics at Nanjing University.
+- He was born and grew up in Nanchang City, Jiangxi Province, China.
+- He received B.Sc. degree in Physics and Computer Science & Technology from Nanchang University in 2019.
+- He was graduated from the Class of the Gifted Young (5-Year coherent middle/high school) at Nanchang No.10 Middle School.
+- His research focuses on the study of quantum simulation of (1) topological quantum matters, especially for them in non-Hermitian systems, (2) quantum many-body systems, and (3) quantum foundations.
 
 
 ## Research Interests
@@ -28,6 +30,7 @@ He is interested in the research of the intersection of physics and quantum info
 - Quantum Information + Topology (Geometry) -> ?
   > Status: Looking for a specific question ......
 
+Currently, he try to design some experimental schemes based on weak-value measurement techniques for verifying novel quantum phenomena.
 
 ## Publications
 
@@ -35,5 +38,5 @@ He is interested in the research of the intersection of physics and quantum info
 2. Peng He\*, **Ze-Hao Huang**, *Floquet engineering and simulating exceptional rings with a quantum spin system*, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201).
 
 
-### Update time
+### Last Modified
 Nov 16, 2023
