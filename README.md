@@ -1,5 +1,10 @@
 # Ze-Hao Huang's Homepage
 
+<p align=center>
+    <img src="./ID_Photo.jpg" alt="image" width="150" height="auto">
+<p>
+
+
 - Name: Ze-Hao Huang (黄泽豪)
 - Affiliation: [National Laboratory of Solid State Microstructures](https://vlssm.nju.edu.cn/main.htm) and [School of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/)
 - Position: PhD candidate
@@ -9,6 +14,7 @@
  | [ORCID](https://orcid.org/0000-0002-1180-7673)
  | [arXiv](https://arxiv.org/a/huang_z_3.html)
  | [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&pli=1&user=Guq9h6AAAAAJ)
+ | [ResearchGate](https://www.researchgate.net/profile/Ze-Hao-Huang)
 
 
 ## About me
@@ -39,7 +45,9 @@ Currently, he try to design some experimental schemes based on weak-value measur
 \[[PDF](papers/Huang%20et%20al_2023_Quantum%20circuit%20for%20measuring%20an%20operator's%20generalized%20expectation%20values%20and.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2210.12732)\]
 
-    ![meas_circ.svg](figures/meas_circ.svg)
+<p align=center>
+    <img src="./figures/meas_circ.svg" alt="image" width="400" height="auto">
+<p>
 
 2. Peng He\*, **Ze-Hao Huang**, *Floquet engineering and simulating exceptional rings with a quantum spin system*, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201). 
 \[[PDF](papers/He_Huang_2020_Floquet%20engineering%20and%20simulating%20exceptional%20rings%20with%20a%20quantum%20spin%20system.pdf)\]
