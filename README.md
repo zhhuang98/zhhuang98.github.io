@@ -38,7 +38,9 @@ Currently, he try to design some experimental schemes based on weak-value measur
 1. **Ze-Hao Huang**, Peng He, Li-Jun Lang\*, Shi-Liang Zhu\*, *Quantum circuit for measuring an operator's generalized expectation values and its applications to non-Hermitian winding numbers*, [Physical Review A, **107**, 052205 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052205).
 \[[PDF](papers/Huang%20et%20al_2023_Quantum%20circuit%20for%20measuring%20an%20operator's%20generalized%20expectation%20values%20and.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2210.12732)\]
-    > ![meas_circ.svg](figures/meas_circ.svg) 
+
+    ![meas_circ.svg](figures/meas_circ.svg)
+
 2. Peng He\*, **Ze-Hao Huang**, *Floquet engineering and simulating exceptional rings with a quantum spin system*, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201). 
 \[[PDF](papers/He_Huang_2020_Floquet%20engineering%20and%20simulating%20exceptional%20rings%20with%20a%20quantum%20spin%20system.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2005.02703)\]
