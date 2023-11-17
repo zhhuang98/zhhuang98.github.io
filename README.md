@@ -38,15 +38,7 @@ Currently, he try to design some experimental schemes based on weak-value measur
 1. **Ze-Hao Huang**, Peng He, Li-Jun Lang\*, Shi-Liang Zhu\*, *Quantum circuit for measuring an operator's generalized expectation values and its applications to non-Hermitian winding numbers*, [Physical Review A, **107**, 052205 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052205).
 \[[PDF](papers/Huang%20et%20al_2023_Quantum%20circuit%20for%20measuring%20an%20operator's%20generalized%20expectation%20values%20and.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2210.12732)\]
-    > ![Main](figures/meas_circ.svg) 
-    >
-    > Abstract: We propose a general quantum circuit based on the SWAP test for measuring the quantity $\langle \psi_1 | A | \psi_2 \rangle$ of an arbitrary operator $A$ with respect to two quantum states $|\psi_{1,2}\rangle$.
-    This quantity is frequently encountered in many fields of physics, and we dub it the generalized expectation as a two-state generalization of the conventional expectation.
-    We apply the circuit, in the field of non-Hermitian physics, to the measurement of generalized expectations with respect to left and right eigenstates of a given non-Hermitian Hamiltonian.
-    To efficiently prepare the left and right eigenstates as the input to the general circuit, we also develop a quantum circuit via effectively rotating the Hamiltonian pair $(H,-H^\dagger)$ in the complex plane.
-    As applications, we demonstrate the validity of these circuits in the prototypical Su-Schrieffer-Heeger model with nonreciprocal hopping by measuring the Bloch and non-Bloch spin textures and the corresponding winding numbers under periodic and open boundary conditions (PBCs and OBCs), respectively.
-    The numerical simulation shows that non-Hermitian spin textures building up these winding numbers can be well captured with high fidelity, and the distinct topological phase transitions between PBCs and OBCs are clearly characterized.
-    We may expect that other non-Hermitian topological invariants composed of non-Hermitian spin textures, such as non-Hermitian Chern numbers, and even significant generalized expectations in other branches of physics would also be measured by our general circuit, providing a different perspective to study novel properties in non-Hermitian as well as other physics realized in qubit systems.
+    > ![meas_circ.svg](figures/meas_circ.svg) 
 2. Peng He\*, **Ze-Hao Huang**, *Floquet engineering and simulating exceptional rings with a quantum spin system*, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201). 
 \[[PDF](papers/He_Huang_2020_Floquet%20engineering%20and%20simulating%20exceptional%20rings%20with%20a%20quantum%20spin%20system.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2005.02703)\]
