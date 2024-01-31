@@ -33,7 +33,7 @@ He is interested in the research of the intersection of physics and quantum info
     > Status: Main Direction in my PhD. Some articles have been published.
 - Condensed Matter Physics + Machine Learning -> Quantum Machine Learning
     > Status: Accumulating background knowledge ......
-- Quantum Information + Topology (Geometry) -> ?
+- Quantum Information + Topology (Geometry) -> Quantum Information Geometry, Geometry of Quantum Computation (Complexity)
     > Status: Looking for a specific question ......
 
 Currently, he try to design some experimental schemes based on weak-value measurement techniques for verifying novel quantum phenomena.
@@ -41,18 +41,18 @@ Currently, he try to design some experimental schemes based on weak-value measur
 
 ## Publications
 
-1. **Ze-Hao Huang**, Peng He, Li-Jun Lang\*, Shi-Liang Zhu\*, *Quantum circuit for measuring an operator's generalized expectation values and its applications to non-Hermitian winding numbers*, [Physical Review A, **107**, 052205 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052205).
-\[[PDF](papers/Huang%20et%20al_2023_Quantum%20circuit%20for%20measuring%20an%20operator's%20generalized%20expectation%20values%20and.pdf)\]
+1. **Ze-Hao Huang**, Peng He, Li-Jun Lang\*, Shi-Liang Zhu\*, *Quantum circuit for measuring an operator's generalized expectation values and its applications to non-Hermitian winding numbers*, [Physical Review A **107**, 052205 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052205).
+\[[PDF](papers/PhysRevA.107.052205.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2210.12732)\]
 
 <div align=center>
     <img src="./figures/meas_circ.svg" alt="image" width="400" height="auto">
 </div>
 
-2. Peng He\*, **Ze-Hao Huang**, *Floquet engineering and simulating exceptional rings with a quantum spin system*, [Physical Review A, **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201). 
-\[[PDF](papers/He_Huang_2020_Floquet%20engineering%20and%20simulating%20exceptional%20rings%20with%20a%20quantum%20spin%20system.pdf)\]
+2. Peng He\*, **Ze-Hao Huang**, *Floquet engineering and simulating exceptional rings with a quantum spin system*, [Physical Review A **102**, 062201 (2020)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.062201). 
+\[[PDF](papers/PhysRevA.102.062201.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2005.02703)\]
 
 
 ### Last Modified
-Nov 17, 2023
+January 31, 2024
