@@ -28,15 +28,15 @@
 
 ## Research Interests
 
-He is interested in the research of the intersection of physics and quantum information (computing), machine learning, and modern mathematics, such as
+Broadly speaking, he is interested in the research of the intersection of `physics` and `quantum information (computing)`, `machine learning`, and `modern mathematics`, such as
 - Condensed Matter Physics + Quantum Information -> Quantum Simulation
-    > Status: Main Direction in my PhD. Some articles have been published.
+    > Status: Main Direction during my PhD. Some articles have been published.
 - Condensed Matter Physics + Machine Learning -> Quantum Machine Learning
     > Status: Accumulating background knowledge ......
 - Quantum Information + Topology (Geometry) -> Quantum Information Geometry, Geometry of Quantum Computation (Complexity)
     > Status: Looking for a specific question ......
 
-Currently, he try to design some experimental schemes based on weak-value measurement techniques for verifying novel quantum phenomena.
+<!-- Currently, he tries to design some experimental schemes based on weak-value measurement techniques for verifying novel quantum phenomena. -->
 
 
 ## Publications
@@ -55,4 +55,4 @@ Currently, he try to design some experimental schemes based on weak-value measur
 
 
 ### Last Modified
-March 28, 2024
+May 26, 2024
