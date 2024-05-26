@@ -28,7 +28,7 @@
 
 ## Research Interests
 
-Broadly speaking, he is interested in the research of the intersection of `physics` and `quantum information (computing)`, `machine learning`, and `modern mathematics`, such as
+Broadly speaking, he is interested in the research of the intersection of `Physics` and `Quantum Information (Computing)`, `Machine Learning`, and `Modern Mathematics`, such as
 - Condensed Matter Physics + Quantum Information -> Quantum Simulation
     > Status: Main Direction during my PhD. Some articles have been published.
 - Condensed Matter Physics + Machine Learning -> Quantum Machine Learning
