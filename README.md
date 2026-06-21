@@ -41,7 +41,7 @@ Broadly speaking, he is interested in the research of the intersection of `Physi
 
 ## Publications
 
-1. **ZHHuang\***, Hai-Tao Ding\*, Li-Jun Lang\*, *Direct measurement of the quantum geometric tensor in pseudo-Hermitian systems*,  [Physical Review A **112**, 062225 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.112.062225).
+1. **ZHHuang\***, Hai-Tao Ding\*, Li-Jun Lang\*, *Direct measurement of the quantum geometric tensor in pseudo-Hermitian systems*,  [Physical Review A **112**, 062225 (2025)](https://journals.aps.org/pra/abstract/10.1103/x8tj-bhwz).
 \[[PDF](papers/PhysRevA.112.062225.pdf)\]
 \[[arXiv](https://arxiv.org/abs/2509.17043)\]
 
@@ -59,4 +59,4 @@ Broadly speaking, he is interested in the research of the intersection of `Physi
 
 
 ### Last Modified
-June 16, 2026
+June 21, 2026
